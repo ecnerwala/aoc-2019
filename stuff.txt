@@ -1,0 +1,27 @@
+0,0
+
+== Hull Breach ==
+You got in through a hole in the floor here. To keep your ship from also freezing, the hole has been sealed.
+
+Doors here lead:
+- north
+- east
+- south
+
+Command?
+
+0,1
+
+== Kitchen ==
+Everything's freeze-dried.
+
+Doors here lead:
+- north
+- south
+- west
+
+Items here:
+- festive hat
+
+Command?
+

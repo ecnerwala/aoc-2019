@@ -1,0 +1,70 @@
+
+
+
+== Hull Breach ==
+You got in through a hole in the floor here. To keep your ship from also freezing, the hole has been sealed.
+
+Doors here lead:
+- north
+- east
+- south
+
+Command?
+north
+
+
+
+== Kitchen ==
+Everything's freeze-dried.
+
+Doors here lead:
+- north
+- south
+- west
+
+Items here:
+- festive hat
+
+Command?
+take festive hat
+
+You take the festive hat.
+
+Command?
+inventory
+
+Unrecognized command.
+
+Command?
+inv
+
+Items in your inventory:
+- festive hat
+
+Command?
+look
+
+Unrecognized command.
+
+Command?
+north
+
+
+
+== Warp Drive Maintenance ==
+It appears to be working normally.
+
+Doors here lead:
+- south
+
+Items here:
+- molten lava
+
+Command?
+take molten lava
+
+You take the molten lava.
+
+The molten lava is way too hot! You melt!
+
+

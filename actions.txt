@@ -1,0 +1,8 @@
+north
+take festive hat
+inventory
+inv
+look
+north
+take molten lava
+
